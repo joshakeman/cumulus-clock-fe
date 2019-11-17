@@ -1,0 +1,14 @@
+{
+    "cumulus": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-cumulus-clock-fe-cumulus-93648-authRole",
+            "UnauthRoleArn": "arn:aws:iam::233387605715:role/amplify-cumulus-clock-fe-cumulus-93648-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::233387605715:role/amplify-cumulus-clock-fe-cumulus-93648-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-cumulus-clock-fe-cumulus-93648-deployment",
+            "UnauthRoleName": "amplify-cumulus-clock-fe-cumulus-93648-unauthRole",
+            "StackName": "amplify-cumulus-clock-fe-cumulus-93648",
+            "StackId": "arn:aws:cloudformation:us-east-1:233387605715:stack/amplify-cumulus-clock-fe-cumulus-93648/b0282390-0947-11ea-bf4d-12cf2806950f"
+        }
+    }
+}

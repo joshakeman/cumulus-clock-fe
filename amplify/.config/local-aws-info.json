@@ -1,0 +1,7 @@
+{
+    "cumulus": {
+        "configLevel": "project",
+        "useProfile": false,
+        "awsConfigFilePath": "C:\\Users\\Josh\\.amplify\\awscloudformation\\jGFsZvtvpg"
+    }
+}
